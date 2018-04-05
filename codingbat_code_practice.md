@@ -1,14 +1,12 @@
-# Codingbat
+# [Codingbat](http://codingbat.com/)
 
 *Code Practice*
 
-[Link](http://codingbat.com/)
+
 
 ## [Python](http://codingbat.com/python)
 
-
-### Logic-2
-[Link](http://codingbat.com/python/Logic-2)
+### [Logic-2](http://codingbat.com/python/Logic-2)
 
 ### [make_bricks](http://codingbat.com/prob/p118406)
 ##### Description
