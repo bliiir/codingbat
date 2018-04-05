@@ -10,14 +10,13 @@
 ### Logic-2
 [Link](http://codingbat.com/python/Logic-2)
 
-#### make_bricks
-[Link](http://codingbat.com/prob/p118406)
+### [make_bricks](http://codingbat.com/prob/p118406)
 ##### Description
 We want to make a row of bricks that is goal inches long. We have a number of small bricks (1 inch each) and big bricks (5 inches each). Return True if it is possible to make the goal by choosing from the given bricks. This is a little harder than it looks and can be done without any loops. See also: Introduction to MakeBricks
 
-make_bricks(3, 1, 8) → True
-make_bricks(3, 1, 9) → False
-make_bricks(3, 2, 10) → True
+* make_bricks(3, 1, 8) → True  
+* make_bricks(3, 1, 9) → False  
+* make_bricks(3, 2, 10) → True
 
 
 ##### My solution
@@ -38,9 +37,6 @@ def make_bricks(small, big, goal):
     return True
 ```
 
-
-
-
 #### round_sum
 [link](http://codingbat.com/prob/p179960)
 
@@ -48,9 +44,9 @@ def make_bricks(small, big, goal):
 ##### Description
 For this problem, we'll round an int value up to the next multiple of 10 if its rightmost digit is 5 or more, so 15 rounds up to 20. Alternately, round down to the previous multiple of 10 if its rightmost digit is less than 5, so 12 rounds down to 10. Given 3 ints, a b c, return the sum of their rounded values. To avoid code repetition, write a separate helper "def round10(num):" and call it 3 times. Write the helper entirely below and at the same indent level as round_sum().
 
-round_sum(16, 17, 18) → 60
-round_sum(12, 13, 14) → 30
-round_sum(6, 4, 4) → 10
+* round_sum(16, 17, 18) → 60  
+* round_sum(12, 13, 14) → 30  
+* round_sum(6, 4, 4) → 10
 
 ##### My solution
 ```r
