@@ -1,9 +1,3 @@
-# [Codingbat](http://codingbat.com/)
-
-*Code Practice*
-
-## [Python](http://codingbat.com/python)
-
 ### [Logic-2](http://codingbat.com/python/Logic-2)
 Medium boolean logic puzzles -- if else and or not
 
