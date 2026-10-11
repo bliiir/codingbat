@@ -1,4 +1,4 @@
-## [String-1](http://codingbat.com/python/String-1)
+## [warmup-2](http://codingbat.com/python/Warmup-2)
 Medium warmup string/list problems with loops (solutions available)
  * string_times
  * front_times
@@ -7,7 +7,8 @@ Medium warmup string/list problems with loops (solutions available)
  * last2
  * array_count9
  * array_front9
- * array123string_match
+ * array123
+ * string_match
 
 ---
 

@@ -1,6 +1,4 @@
-
-
-## [List-2](http://codingbat.com/python/List-1)
+## [List-1](http://codingbat.com/python/List-1)
 Basic python list problems -- no loops.. Use a[0], a[1], ... to access elements in a list, len(a) is the length.
 
 * first_last6
